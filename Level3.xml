@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LevelInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <itemList>
+    <Items>
+      <prefabName>Beam_H</prefabName>
+      <position>
+        <x>-6.856543</x>
+        <y>0.942997634</y>
+        <z>9</z>
+      </position>
+    </Items>
+    <Items>
+      <prefabName>Beam_H</prefabName>
+      <position>
+        <x>-1.66120541</x>
+        <y>-2.91686058</y>
+        <z>9</z>
+      </position>
+    </Items>
+    <Items>
+      <prefabName>Beam_H</prefabName>
+      <position>
+        <x>4.5764575</x>
+        <y>-1.23937035</y>
+        <z>9</z>
+      </position>
+    </Items>
+    <Items>
+      <prefabName>Beam_H</prefabName>
+      <position>
+        <x>-1.498342</x>
+        <y>1.95275044</y>
+        <z>9</z>
+      </position>
+    </Items>
+    <Items>
+      <prefabName>Beam_H</prefabName>
+      <position>
+        <x>-6.905401</x>
+        <y>6.26862574</y>
+        <z>9</z>
+      </position>
+    </Items>
+  </itemList>
+</LevelInfo>
